@@ -1,0 +1,7 @@
+.Enemies {
+  position: absolute;
+  width: 0;
+  height: 100%;
+  right: 0;
+  background: red;
+}

@@ -1,0 +1,18 @@
+.DisplayMessage {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #dcdcdc4d;
+
+  display: flex;
+  justify-content: center;
+}
+
+.DisplayMessage-Content {
+  width: 30%;
+  height: 50%;
+  margin-top: 50px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 10px;
+}

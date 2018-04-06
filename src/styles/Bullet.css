@@ -1,0 +1,5 @@
+.Bullet {
+    position: absolute;
+    background-color: black;
+    border-radius: 100%;
+}
